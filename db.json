@@ -1,0 +1,68 @@
+{
+    "NotificationList": {
+      "01": {
+        "id": "1",
+        "title": "You have received new rating from",
+        "name": "Sam Smith",
+        "time": "2 hours ago",
+        "avatar": "https://i.imgur.com/r0bsDqL.jpg",
+        "iconName": "star_fill"
+      },
+      "02": {
+        "id": "2",
+        "title": "You have received new rating from",
+        "name": "Sara",
+        "time": "3 hours ago",
+        "avatar": "https://themarketingcrowd.ie/wp-content/uploads/2017/01/Round-Profile-Pic.png",
+        "iconName": "star_fill"
+      },
+      "03": {
+        "id": "3",
+        "title": "You have received new rating from",
+        "name": "Nail",
+        "time": "4 hours ago",
+        "avatar": "https://i0.wp.com/studiolorier.com/wp-content/uploads/2018/10/Profile-Round-Sander-Lorier.jpg?ssl=1",
+        "iconName": "star_fill"
+      },
+      "04": {
+        "id": "4",
+        "title": "You have received new rating from",
+        "name": "Nancy",
+        "time": "5 hours ago",
+        "avatar": "https://res.cloudinary.com/demo/image/upload/r_20/front_face.png",
+        "iconName": "star_fill"
+      },
+      "05": {
+        "id": "5",
+        "title": "You have received new rating from",
+        "name": "Matt",
+        "time": "6 hours ago",
+        "avatar": "https://learn.mattsuess.com/wp-content/uploads/2017/06/Matt-round-profile-photo-2017-300px-1.png",
+        "iconName": "star_fill"
+      },
+      "06": {
+        "id": "6",
+        "title": "You have received new rating from",
+        "name": "Amanda",
+        "time": "6 hours ago",
+        "avatar": "https://i0.wp.com/flukebeauty.com/wp-content/uploads/2017/05/round-profile-pic.png?ssl=1",
+        "iconName": "star_fill"
+      },
+      "07": {
+        "id": "7",
+        "title": "You have received new rating from",
+        "name": "Finnick",
+        "time": "7 hours ago",
+        "avatar": "https://www.migration-center.com/wp-content/uploads/2016/04/profile_picture_round_fredrik_olsson.png",
+        "iconName": "star_fill"
+      },
+      "08": {
+        "id": "8",
+        "title": "You have received new rating from",
+        "name": "Rose",
+        "time": "8 hours ago",
+        "avatar": "https://i2.wp.com/www.thesavvyplate.com/wp-content/uploads/2018/08/Copy-of-round-profile-pic.png?fit=840%2C840",
+        "iconName": "star_fill"
+      }
+    }
+  }
